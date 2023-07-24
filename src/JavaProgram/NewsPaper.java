@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class NewsPaper {
 	
+	
 	public static double TOISUM;
 	public static double HINDUSUM;
 	public static double ETSUM;
